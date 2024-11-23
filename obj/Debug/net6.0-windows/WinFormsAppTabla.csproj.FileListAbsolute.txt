@@ -1,0 +1,16 @@
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net6.0-windows\WinFormsAppTabla.exe
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net6.0-windows\WinFormsAppTabla.deps.json
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net6.0-windows\WinFormsAppTabla.runtimeconfig.json
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net6.0-windows\WinFormsAppTabla.dll
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net6.0-windows\WinFormsAppTabla.pdb
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.Form1.resources
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.csproj.GenerateResource.cache
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.dll
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\refint\WinFormsAppTabla.dll
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.pdb
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\WinFormsAppTabla.genruntimeconfig.cache
+C:\Users\marie\OneDrive\Documents\TERCER SEMESTRE\TERCER SEMESTRE\PROGRAMACION II\TERCER PARCIAL\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net6.0-windows\ref\WinFormsAppTabla.dll
